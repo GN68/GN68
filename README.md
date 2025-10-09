@@ -1,3 +1,4 @@
+<img width="3840" height="960" alt="image" src="https://github.com/user-attachments/assets/e80b25ab-7915-42cb-a331-da053d855df5" />
 ```
    _______   __
   / ____/ | / /   GNanimates / https://gnon.top / Discord: @GN68s
