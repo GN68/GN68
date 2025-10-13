@@ -1,4 +1,4 @@
-<img width="3840" height="960" alt="image" src="https://github.com/user-attachments/assets/e80b25ab-7915-42cb-a331-da053d855df5" />
+<img width="3840" height="960" alt="image" src="https://github.com/GN68/GN68/blob/main/banner.jpeg?raw=true" />
 
 ```
    _______   __
