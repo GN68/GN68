@@ -21,6 +21,7 @@ Certificate|Issuer|Date
 -|-|-
 |[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e99a95a860bf49289e3d45fa442920d7) | Cognitive Class | **19**/**11**/**2025**
 
+
 ## 🛠️ Skill set
 
 Skill|Proficiency
@@ -39,4 +40,8 @@ Language|Proficiency
 **GLSL** | ⭐⭐⭐⭐
 **Java** | ⭐⭐⭐
 **SQL** | ⭐⭐⭐
-**** | ⭐⭐⭐
+
+## Workspaces
+🚂 Language|Proficiency
+-|-
+**Visual Studio Code** | ⭐⭐⭐⭐⭐
