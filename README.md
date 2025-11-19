@@ -4,7 +4,7 @@
 
 <br>
 
-# Mark Ramirez
+# Hi, I am Marc Ramirez 👋
 Filipino · Male
 
 You may know me online as **GN**, **GNUI**, **GN68s** or **GNamimates**. <br>
@@ -35,12 +35,13 @@ Skill|Proficiency
 
 Language|Proficiency
 -|-
-**Lua/Luau** | ⭐⭐⭐⭐⭐⭐
+**Java** | ⭐⭐⭐
+**SQL** | ⭐⭐⭐
+**Lua/Luau** | ⭐⭐⭐⭐⭐
 **GDScript** | ⭐⭐⭐⭐⭐
 **GLSL (GPU Programming)** | ⭐⭐⭐⭐
 **TypeScript / JavaScript** | ⭐⭐⭐⭐
-**Java** | ⭐⭐⭐
-**SQL** | ⭐⭐⭐
+
 
 ## Workspaces
 🚂 Language|Proficiency
