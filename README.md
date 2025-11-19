@@ -37,7 +37,8 @@ Language|Proficiency
 -|-
 **Lua/Luau** | ⭐⭐⭐⭐⭐⭐
 **GDScript** | ⭐⭐⭐⭐⭐
-**GLSL** | ⭐⭐⭐⭐
+**GLSL (GPU Programming)** | ⭐⭐⭐⭐
+**TypeScript / JavaScript** | ⭐⭐⭐⭐
 **Java** | ⭐⭐⭐
 **SQL** | ⭐⭐⭐
 
