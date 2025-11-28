@@ -25,8 +25,5 @@ Certificates|Issuer|Date (D/M/Y)
 Program|School|Timeline
 -|-|-
 **Bachelor of Computer Science (BSCS)** | New Era University (NEU) | **2024 - Present**
-
-
-
-
 </div>
+[![Marc Ramirez profile views](https://u8views.com/api/v1/github/profiles/81744903/views/day-week-month-total-count.svg)](https://u8views.com/github/GN68)
