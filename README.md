@@ -20,7 +20,7 @@ Certificates|Issuer|Date (D/M/Y)
 |[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e99a95a860bf49289e3d45fa442920d7) | Cognitive Class | **19**/**11**/**2025**
 |[OCI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3F986049C6B33AD619A271F76B47A443855395F4EDC3EF40CFD3BC4FBCEF0CD9) | Oracle | **24**/**2025**
 |[Oracle Data Platform Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2BFE49615E04130449FFE6A0114A31B129CFA1AB2E7AD21C7C66F27784A2E70A) | Oracle | **24**/**2025**
-|[OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=2BFE49615E04130449FFE6A0114A31B129CFA1AB2E7AD21C7C66F27784A2E70A) | Oracle | **24**/**2025**
+|[OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=CD30D24C83869E784D580FFD6C22117B4237DD655B39C1FAD44EF0F82B8DDF4E) | Oracle | **24**/**2025**
 
 ### 🎓 Education
 Program|School|Timeline
