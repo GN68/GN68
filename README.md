@@ -4,10 +4,10 @@
 <img align="center" width="100" height="100" alt="Profile Icon" src="https://gnon.top/assets/icon-hFroOXV_.webp">
 
 
-# Hi, I am Marc Ramirez 👋
+# Hi, I am GN 👋
 Filipino · Male · 20
 
-You may know me online as **GN**, **GNUI**, **GN68s** or **GNamimates**. <br>
+You may know as **GNUI**, **GN68s** or **GNamimates**. <br>
 one way to identify me is by finding my prefix **GN**
 
 ### 📚🛠️ Languages, Tech & Tools I use
