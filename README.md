@@ -10,6 +10,9 @@ PH Based 3D Digital Artist & Animator and Programmer.
 You may know as **GNUI**, **GN68s** or **GNamimates**. <br>
 one way to identify me is by finding my prefix **GN**
 
+Check out my website for more cool stuff
+https://gnon.top/about
+
 ### Socials & Shops
 [`Discord`](https://discord.com/) [`Email`](mail@gnon.top) [`Youtube`](https://www.youtube.com/@GNamimates)  
 [`Kofi`](https://gnon.top/about) [`Itch.io`](https://gnui.itch.io/) [`Modrinth`](https://modrinth.com/user/GN)  
